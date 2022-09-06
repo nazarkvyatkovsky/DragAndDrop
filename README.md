@@ -41,7 +41,7 @@ Since `performDrop` will not be called we handle it mannualy.
 </p>
 
 ### 🧾 Summary
-We still see some challenges and limitations that face you when using SwiftUI. We have found workarounds to fix this, although they are not perfect.
+We still see some challenges and limitations that face you when using SwiftUI. We propose some workarounds to improve functionality if you are using `.onDrag`, `.onDrop` for reordering elements. 
 
 ### 🦍 Author
 [Nazar Kvyatkovsky](https://www.instagram.com/nazarkvyatkovsky) 
