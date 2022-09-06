@@ -27,14 +27,14 @@ By default the selected item moves with drag preview.
 ```
 
 ### 🪲 Solve issue when you pick an item and release it (to cancel) and view is not reset.
-Since `performDrop` will not be called and we handle it mannualy.
+Since `performDrop` will not be called and need handle it mannualy.
 <p float="left">
 <img src="https://user-images.githubusercontent.com/25620329/188602669-012117b7-ab13-43e5-826e-b69abd54e0dd.gif" width="300">
 <img src="https://user-images.githubusercontent.com/25620329/188602664-0b573300-151e-454e-bb9d-5a0279cb670b.gif" width="300"> 
 </p>
 
 ### 🪲 Solve issue when you drop an item outside the view and view is not reset.
-Since `performDrop` will not be called and we handle it mannualy.
+Since `performDrop` will not be called and need handle it mannualy.
 <p float="left">
 <img src="https://user-images.githubusercontent.com/25620329/188603203-94e9d34a-66b7-4e0e-b72f-2e20ab82b295.gif" width="300">
 <img src="https://user-images.githubusercontent.com/25620329/188603209-89ba443e-8f82-4c46-909b-d20740c4fed9.gif" width="300"> 
